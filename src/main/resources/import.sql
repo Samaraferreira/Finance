@@ -1,0 +1,2 @@
+insert into User(id,name,email,password,permission) VALUES('59273f120df649e180d9459f314a5008', 'Danilo','maratonadev@stefanini.com','stefanini','USER');
+insert into User(id,name,email,password,permission) VALUES('75adb47730db4087b1c74cffab73bec1', 'Mayla','mayla@stefanini.com','stefanini','USER');
